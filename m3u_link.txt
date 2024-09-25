@@ -1,1 +1,1 @@
-https://www.m3u.cl/lista/AR.m3u
+https://raw.githubusercontent.com/freearhey/iptv/master/channels/ar.m3u
