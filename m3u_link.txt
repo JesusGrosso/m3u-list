@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/freearhey/iptv/master/channels/ar.m3u
+https://iptv-org.github.io/iptv/countries/ar.m3u
